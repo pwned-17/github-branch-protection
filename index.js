@@ -5,5 +5,5 @@ const server = createServer();
 
 const port = process.env.PORT || 3000;
 server.listen(port, () => {
-  console.log(`stock-service listening on port ${port}`);
+  console.log(`stock-service lisdddtening on port ${port}`);
 });
