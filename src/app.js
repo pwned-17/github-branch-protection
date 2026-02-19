@@ -1,4 +1,4 @@
-// src/app.js - trivial HTTP server (no express dependency)
+// src/app.js - trivial HTTP server (no expresssssss dependency)
 const http = require('http');
 
 function createServer() {
